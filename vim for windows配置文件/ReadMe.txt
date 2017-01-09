@@ -1,0 +1,1 @@
+该配置文件内包含了omnicom补全和snipmate等插件
